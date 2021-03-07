@@ -1,7 +1,7 @@
 ### Hello there 👀
 ---
-- ❗️ Currently working on rewriting my [personal portfolio](http://damianhaziak.github.io).
-- 📚 Learning React and SCSS, through the project above.
+- ❗️ Currently working on a [FreeCodeCamp certification](https://github.com/DamianHaziak/FCC-APIs-and-Microservices-Projects).
+- 📚 Learning NodeJS and Express while working on the above. 
 ---
 - 🏢 Working at [Netcompany UK](https://www.netcompany.com/en-GB) as a consultant developer.
 - 🪙 Also part of a DEFI startup, working on a decentralized finance social platform.
