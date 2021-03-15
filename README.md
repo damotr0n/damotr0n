@@ -1,7 +1,7 @@
 ### Hello there 👀
 ---
-- ❗️ Currently working on a [FreeCodeCamp certification](https://github.com/DamianHaziak/FCC-APIs-and-Microservices-Projects).
-- 📚 Learning NodeJS and Express while working on the above. 
+- ❗️ Currently working on a portfolio website for my dad's business.
+- 📚 Learning NextJS and Adobe XD while working on above.
 ---
 - 🏢 Working at [Netcompany UK](https://www.netcompany.com/en-GB) as a consultant developer.
 - 🪙 Also part of a DEFI startup, working on a decentralized finance social platform.
